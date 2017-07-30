@@ -1,13 +1,12 @@
 baseurl = "http:f00b4rch.io"
-DefaultContentLanguage = "fr"
-#DefaultContentLanguage = "ja"
+DefaultContentLanguage = "en"
 title = "F00b4rch"
 theme = "beautifulhugo"
 metaDataFormat = "yaml"
 pygmentsUseClasses = true
 pygmentCodeFences = true
 disqusShortname = "f00b4rch"
-#googleAnalytics = "XXX"
+googleAnalytics = "UA-103579010-1"
 
 [Params]
   subtitle = "Dev & Ops posts"
@@ -19,14 +18,14 @@ disqusShortname = "f00b4rch"
   comments = true
 #  gcse = "012345678901234567890:abcdefghijk" # Get your code from google.com/cse. Make sure to go to "Look and Feel" and change Layout to "Full Width" and Theme to "Classic"
 
-#[[Params.bigimg]]
-#  src = "img/triangle.jpg"
+[[Params.bigimg]]
+  src = "img/triangle.jpg"
 #  desc = "Triangle"
-#[[Params.bigimg]]
-#  src = "img/sphere.jpg"
+[[Params.bigimg]]
+  src = "img/sphere.jpg"
 #  desc = "Sphere"
-#[[Params.bigimg]]
-#  src = "img/hexagon.jpg"
+[[Params.bigimg]]
+  src = "img/hexagon.jpg"
 #  desc = "Hexagon"
 
 [Author]
