@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on F00b4rch</title>
+    <link>http:f00b4rch.io/tags/</link>
+    <description>Recent content in Tags on F00b4rch</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>f00b4rch@gmail.com (F00b4rch)</managingEditor>
+    <webMaster>f00b4rch@gmail.com (F00b4rch)</webMaster>
+    
+	<atom:link href="http:f00b4rch.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
