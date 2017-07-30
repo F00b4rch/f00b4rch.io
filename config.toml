@@ -89,3 +89,8 @@ disqusShortname = "f00b4rch"
     name = "Tags"
     url = "tags"
     weight = 3
+
+[[menu.main]]
+    name = "CV"
+    url = "page/about/cv/"
+    weight = 3
