@@ -59,7 +59,7 @@ disqusShortname = "f00b4rch"
 
 [[menu.main]]
     name = "About"
-    url = "page/about/"
+    url = "page/about/whoami/"
     weight = 3
 
 #[[menu.main]]
