@@ -91,5 +91,5 @@ googleAnalytics = "####"
 
 [[menu.main]]
     name = "CV"
-    url = "page/about/cv/"
+    url = "cv/"
     weight = 3
