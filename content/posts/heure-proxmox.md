@@ -2,7 +2,7 @@
 title: "Régler l’heure et la date Vm Proxmox"
 date: 2017-07-30T12:44:46Z
 tags: [proxmox, lxc, openvz, linux]
-draft: true
+draft: false
 ---
 Que l’on tourne sur de l’OpenVZ ou du LXC, il peut arriver que sur certains template proposé par Proxmox, le paramétrage de la date et l’heure du système ne soit pas bon.  
 

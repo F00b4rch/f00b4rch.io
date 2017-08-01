@@ -1,7 +1,7 @@
 ---
 title: "Notifications Finch"
 date: 2017-07-30T12:42:17Z
-draft: true
+draft: false
 tags: [finch, linux, xmpp, notification]
 ---
 

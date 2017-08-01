@@ -2,7 +2,7 @@
 title: "Update des Templates Proxmox"
 date: 2017-07-30T14:53:16Z
 tags: [proxmox, templates, linux]
-draft: true
+draft: false
 ---
 
 Pour mettre automatiquement à jour la liste des templates disponibles via prox dans votre espace local il suffit d'utiliser la commande suivante :

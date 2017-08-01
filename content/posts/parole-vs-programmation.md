@@ -2,7 +2,7 @@
 title: "Parole Vs Programmation"
 date: 2017-07-30T12:51:14Z
 tags: [logique, dev]
-draft: true
+draft: false
 ---
 
 On me fait souvent remarquer que j’ai du mal à exprimer une idée « directement ». Généralement, pour un simple positionnement sur un sujet, u$ e multitude d’idées, mots me viennent en tête en même temps et mon cerveau n’arrive pas à faire tout de suite le tri. Cela provoque donc deux choses :  

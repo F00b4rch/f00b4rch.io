@@ -2,7 +2,7 @@
 title: "Galera Monitoring"
 date: 2017-07-30T15:08:41Z
 tags: [galera, monitoring, golang, dev]
-draft: true
+draft: false
 ---
 
 Monitorer une base de données en standalone c'est une chose, mais dès qu'on parle clustering, c'est tout de suite un peu plus complexe.

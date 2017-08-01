@@ -2,7 +2,7 @@
 title: "Event Watcher Manager Python3"
 date: 2017-07-30T12:53:16Z
 tags: [python, dev, pyinotify, linux]
-draft: true
+draft: false
 ---
 
 Dans le cadre d'une demande spécifique, j'ai été amené à travailler sur l'élaboration d'un programme automatisant certaines actions via SFTP.  

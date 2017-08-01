@@ -2,7 +2,7 @@
 title: "Stackoverflow depuis un Terminal"
 date: 2017-07-30T12:47:32Z
 tags: [cli, stackoverflow, linux]
-draft: true
+draft: false
 ---
 
 En traînant sur le net (comme souvent d’ailleurs) je suis tombé sur cette petite pépite pour les geeks flemmards comme moi… qui ne souhaitent pas ouvrir une interface graphique de type navigateur pour ne pas être ébloui par la lumière générée.  
