@@ -1,4 +1,4 @@
-baseurl = "http:f00b4rch.io"
+baseurl = "https:f00b4rch.io"
 DefaultContentLanguage = "en"
 title = "F00b4rch"
 theme = "beautifulhugo"
