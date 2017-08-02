@@ -2,7 +2,9 @@
 personal blog
 
 Actual start
+
 ``` 
+#!bin/bash
 cd /srv/http/f00b4rch.io/
-sudo hugo server -D --watch --baseUrl=http://f00b4rch.io/ --port=80 --appendPort=false --bind 1.2.3.4
+sudo hugo server --watch --baseUrl=https://f00b4rch.io/ --port=8080 --appendPort=false
 ```
