@@ -38,7 +38,7 @@ server="XC 2016"
 while true
     do curl --silent https://www.online.net/fr/serveur-dedie | \
     grep '<button class="btn btn--primary js-order-dedibox"' | \
-    grep -i "$server" | grep -i 'victimeeu' || \
+    grep -i "$server" | grep -i 'victime' || \
     curl -s -d "payload=$json" "$webhook" ; \
     sleep 5 ; \
 done
