@@ -4,6 +4,8 @@ date: 2017-08-06T16:37:07Z
 draft: true
 ---
 
+![Docker Openstack OVH](../Images/novadocker.jpeg)
+
 Avec le `Public Cloud` OVH, il vous est possible de piloter vos instances **OpenStack** directement depuis le client `Nova`. 
 
 C'est plutôt pratique de passer par la ligne de commande plutôt que de devoir accéder au manager qui est souvent, disons-le, lent.
