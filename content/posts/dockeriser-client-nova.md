@@ -1,10 +1,8 @@
 ---
 title: "Dockeriser le client Nova"
-date: 2017-08-06T16:37:07Z
-draft: true
+date: 2017-08-08T13:52:07Z
+draft: false
 ---
-
-![Docker Openstack OVH](../Images/novadocker.jpeg)
 
 Avec le `Public Cloud` OVH, il vous est possible de piloter vos instances **OpenStack** directement depuis le client `Nova`. 
 
@@ -21,7 +19,10 @@ FROM debian:latest
 
 MAINTAINER f00b4rch@gmail.com
 
-RUN apt-get update && apt-get install python-glanceclient python-novaclient -y
+RUN apt-get update && \
+    apt-get install -y \
+    python-glanceclient \
+    python-novaclient
 
 env OS_AUTH_URL=""
 env OS_TENANT_ID=""
