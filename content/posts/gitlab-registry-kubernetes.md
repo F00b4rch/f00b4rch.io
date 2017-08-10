@@ -2,7 +2,7 @@
 title: "Ajouter Gitlab Registry dans Kubernetes"
 date: 2017-08-10T12:06:05Z
 tags: [kubernetes, gitlab, registry]
-draft: true
+draft: false
 ---
 
 Maintenant que `Gitlab` propose son propre registry d'images, il est possible de l'utiliser directement dans notre environnement `K8s` !
