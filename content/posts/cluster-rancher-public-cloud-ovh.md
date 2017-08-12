@@ -5,7 +5,7 @@ date: 2017-08-04T19:04:11Z
 draft: false 
 ---
 
-![Rancher logo](../Images/rancher_logo.jpeg)
+![Rancher logo](/Images/rancher_logo.jpeg)
 
 Le monde de l'hébergement change, celui du développement applicatif avec lui. Aujourd'hui on se tourne de moins en moins vers un hébergement dédié pour une seule application, mais plus pour monter l'infrastructure qui la supportera. 
 
@@ -127,7 +127,7 @@ Là ou :
 Faîtes l'opération pour les deux autres serveurs pour que chaque Rancher se lance en utilisant la base de données Galera.
 
 Résultat attendu :
-![Rancher Galera](../Images/RancherGalera.png)
+![Rancher Galera](/Images/RancherGalera.png)
 
 
 Il est possible de vérifier si Rancher est bien `clusterisé` via l'UI dans : Admin > High Availability.
