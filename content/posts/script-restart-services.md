@@ -225,4 +225,6 @@ Bon ce n'est rien de très fou, mais je trouve que faire les choses manuellement
 
 Comme d'habitude, [les sources sont dispos](https://github.com/F00b4rch/SandBox/blob/master/bash/PleskRestartSVC/main.sh) !
 
+Dans un futur post, on verra comment bien factoriser tout ce script pour éviter les répétitions et le rendre plus lisible.
+
 A bientôt !
