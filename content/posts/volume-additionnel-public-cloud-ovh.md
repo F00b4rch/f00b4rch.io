@@ -9,7 +9,7 @@ Pour ajouter un disque/volume additionnel sur votre un public cloud OVH il faut 
 
 Tout d'abord il faut identifier le nouveau disque :
 
-    fdisk- l
+    fdisk -l
 
 Les retours peuvent varier selon le système (`sd{x}`, `vd{x}`).
 
