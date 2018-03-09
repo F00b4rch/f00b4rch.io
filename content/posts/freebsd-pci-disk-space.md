@@ -2,6 +2,7 @@
 title: "Freebsd Pci Disk Space"
 date: 2018-03-04T14:56:33Z
 draft: false
+tags: [freebsd, ovh, serveur, publicloud]
 ---
 
 Quand vous créez une instance OVH Public Cloud sous Freebsd avec un certain espace disque, disons 50G, vous vous apercevrez qu'il n'est pas appliqué sur votre partition.

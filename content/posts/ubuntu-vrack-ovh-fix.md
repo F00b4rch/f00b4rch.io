@@ -2,6 +2,7 @@
 title: "Ubuntu Vrack Ovh Fix"
 date: 2018-03-04T14:41:25Z
 draft: false
+tags: [bug, ovh, vrack, linux]
 ---
 
 Vous l'avez peut-être remarqué, mais lorsque vous faîtes poper une instance PCI OVH sous Ubuntu en activant le Vrack, votre Vm ne dispose pas de son IP privée au boot.
