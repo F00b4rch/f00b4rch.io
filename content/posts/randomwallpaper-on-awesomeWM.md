@@ -22,7 +22,7 @@ Il me fallait donc trois choses:
  
 - Un dossier contenant plein d'images
 - Un petit script qui va en choisir une au hasard
-- Un call à se script depuis l'init d'awesomo
+- Un call à ce script depuis l'init d'awesome
 
 Pour ce qui est des images, j'utilise [l'excellent repo](https://github.com/LukeSmithxyz/wallpapers) de **Luck Smith**.
 
