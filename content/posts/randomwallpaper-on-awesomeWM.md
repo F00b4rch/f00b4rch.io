@@ -37,9 +37,12 @@ Pour ce qui est du script, rien de bien méchant :
 
 # current awesome theme
 THEME="powerarrow-dark"
-
+# Awesome conf path
+AWPATH="$HOME/.config/awesome/themes/$THEME"
 # image should have absolute path to image folder
-IMAGE=$(find $HOME/Pictures/wallpapers/ -type f | shuf -n 1 | sed 's/\ /\\ /g') && cp -f $IMAGE $HOME/.config/awesome/themes/$THEME/wall.png
+IMAGE=$(find $HOME/Pictures/wallpapers/ -type f -name "*.png" -o -name "*.jpeg" -o -name "*.jpg"| shuf -n 1 | sed 's/\ /\\ /g')
+
+cp -f $IMAGE $AWPATH/wall.png
 
 # don't forget to add those lines at the end of your rc.lua (replace with your correct path and script name)
 #
